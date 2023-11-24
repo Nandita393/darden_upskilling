@@ -1,0 +1,17 @@
+
+
+java:S1488+"cImmediately return this expression instead of assigning it to the temporary variable "updatedUser".(ä—ş¹H¤RMINORZ
+CODE_SMELL
+}
+java:S3655"XCall "optionalUser.isPresent()" or "!optionalUser.isEmpty()" before accessing the value.(˜ÙúÛH§RMAJORZBUG
+z
+java:S3655'"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(çÆ‡³ıÿÿÿÿH¨RMAJORZBUG
+s
+java:S1128"BRemove this unused import 'org.apache.logging.log4j.util.Strings'.(ğšˆ¯üÿÿÿÿH©RMINORZ
+CODE_SMELL
+l
+java:S1128	"ARemove this unused import 'org.springframework.util.StringUtils'.(ĞôÿH«RMINORZ
+CODE_SMELL
+Z
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›H­RMINORZ
+CODE_SMELL
